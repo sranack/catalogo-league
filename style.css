@@ -4,7 +4,7 @@ body{
 
 .card{
     background-image: url("pergaminho.jpg");
-    width: 80px;
+    width: 20px;
     text-align: center;
     font-family: Verdana;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -30,7 +30,7 @@ body{
  }
  .card .nome{
      font-weight: bold;
-     font-size: 50px;
+     font-size: 20px;
  }
  .rec{
      font-weight: bold;
@@ -45,7 +45,7 @@ body{
  
  .berrys{
      height: auto;
-     width: 50px;
+     width: 30px;
      margin: 0%;
  }
  .procurado{
