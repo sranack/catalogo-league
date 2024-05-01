@@ -1,19 +1,16 @@
 body{
-    background-color: rgb(221, 220, 219);
+    background-color: rgb(255,255,255);
  }
- #cards{
-     
-     
- }
+
  .logo{
      height: auto;
-     width: 700px;
+     width: 1000px;
      margin: 0 auto; 
  }
  
  .foto{
      height: auto;
-     width: 200px;
+     width: 400px;
      margin: 0 auto;
      border-radius: 20px;
      box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
@@ -23,15 +20,15 @@ body{
  }
  .card .nome{
      font-weight: bold;
-     font-size: 150%;
+     font-size: 200px;
  }
  .rec{
      font-weight: bold;
-     font-size: 150%;
+     font-size: 100px;
  }
  .titulo{
      margin: 20%;
-     font-size: 300%;
+     font-size: 100px;
      text-align: center;
      font-family: Impact;
  }
@@ -44,7 +41,7 @@ body{
  .procurado{
      text-align: center;
      font-family: Impact;
-     font-size: 200%;
+     font-size: 80px;
      margin: 0%;
  }
  p{
