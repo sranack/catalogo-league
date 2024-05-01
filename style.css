@@ -30,7 +30,7 @@ body{
  }
  .card .nome{
      font-weight: bold;
-     font-size: 200px;
+     font-size: 50px;
  }
  .rec{
      font-weight: bold;
@@ -38,7 +38,7 @@ body{
  }
  .titulo{
      margin: 20%;
-     font-size: 100px;
+     font-size: 50px;
      text-align: center;
      font-family: Impact;
  }
@@ -51,7 +51,7 @@ body{
  .procurado{
      text-align: center;
      font-family: Impact;
-     font-size: 80px;
+     font-size: 20px;
      margin: 0%;
  }
  p{
