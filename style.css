@@ -2,6 +2,16 @@ body{
     background-color: rgb(255,255,255);
  }
 
+.card{
+    background-image: url("pergaminho.jpg");
+    width: 300px;
+    text-align: center;
+    font-family: Verdana;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 20px;
+
  .logo{
      height: auto;
      width: 1000px;
