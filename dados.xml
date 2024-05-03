@@ -4,70 +4,70 @@
         <id>	1	</id>
         <nome> Ahri </nome>
         <recompensa> A RAPOSA DE NOVE CAUDAS </recompensa>
-        <alcunha>	Mago 	</alcunha>
+        <alcunha>	Classe: Mago 	</alcunha>
         <status>	Dificuldade: Moderado	</status>
     </pirata>
     <pirata>
         <id>	2	</id>
         <nome>	Akali	</nome>
         <recompensa>	A ASSASSINA RENEGADA	</recompensa>
-        <alcunha>	Assassina	</alcunha>
+        <alcunha>	Classe: Assassina	</alcunha>
         <status>	Dificuldade: Difícil	</status>
     </pirata>
     <pirata>
         <id>	3	</id>
         <nome>	Caitylin	</nome>
         <recompensa>	A XERIFE DE PILTOVER	</recompensa>
-        <alcunha>	Atirador 	</alcunha>
+        <alcunha>	Classe: Atirador 	</alcunha>
         <status>	Dificuldade: Moderado 	</status>
     </pirata>
     <pirata>
         <id>	4	</id>
         <nome>	Ezreal 	</nome>
         <recompensa>	O EXPLORADOR PRÓDIGO	</recompensa>
-        <alcunha>	Atirador	</alcunha>
+        <alcunha>	Classe: Atirador	</alcunha>
         <status>	Dificuldade: Moderado	</status>
     </pirata>
     <pirata>
         <id>	5	</id>
         <nome>	Fizz	</nome>
         <recompensa>	O TRAPACEIRO DAS MARÉS	</recompensa>
-        <alcunha>	Assassino	</alcunha>
+        <alcunha>	Classe: Assassino	</alcunha>
         <status>	Dificuldade: Moderado 	</status>
     </pirata>
     <pirata>
         <id>	6	</id>
         <nome>	Gragas	</nome>
         <recompensa>	O BADERNISTA	</recompensa>
-        <alcunha>	Lutador	</alcunha>
+        <alcunha>	Classe: Lutador	</alcunha>
         <status>	Dificuldade: Moderado	</status>
     </pirata>
     <pirata>
         <id>	7	</id>
         <nome>	Gwen	</nome>
         <recompensa> A COSTUREIRA ENCANTADA	</recompensa>
-        <alcunha>	Lutador	</alcunha>
+        <alcunha> Classe: Lutador	</alcunha>
         <status>	Dificuldade: Difícil 	</status>
     </pirata>
     <pirata>
         <id>	8	</id>
         <nome>	Irelia	</nome>
         <recompensa>	A DANÇARINA DAS LÂMINAS	</recompensa>
-        <alcunha>	Lutador 	</alcunha>
+        <alcunha>	Classe: Lutador 	</alcunha>
         <status>	Dificuldade: Difícil	</status>
     </pirata>
     <pirata>
         <id>	9	</id>
         <nome>	Ivern	</nome>
         <recompensa>	O PAI DO VERDE	</recompensa>
-        <alcunha>	Suporte	</alcunha>
+        <alcunha>	Classe: Suporte	</alcunha>
         <status>	Dificuldade: Fácil 	</status>
     </pirata>
     <pirata>
         <id>	10	</id>
         <nome>	Jhin	</nome>
         <recompensa>	O VIRTUOSO	</recompensa>
-        <alcunha>	Atirador	</alcunha>
+        <alcunha>	Classe: Atirador	</alcunha>
         <status>	Dificuldade: Moderado	</status>
     </pirata>   
 </recompensas>																														
